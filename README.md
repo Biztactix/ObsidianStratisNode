@@ -13,6 +13,8 @@
 The Obsidian full blockchain node in C# - based on the StratisBitcoinFullNode by Stratis.
 ===============
 
+<a href="https://biztactix.com.au">Biztactix</a> Fork from the original
+
 Bitcoin Implementation in C#
 ----------------------------
 
